@@ -5,7 +5,7 @@ In order to reuse them you only need to set your ``renovate.json`` file as follo
 ``` json
 {
   "extends": [
-      "github>AndreaGiulianelli/renovate-config:file-name"
+      "github>davidedomini/renovate-config:file-name"
   ]
 }
 ```
