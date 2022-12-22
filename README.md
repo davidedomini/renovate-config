@@ -1,5 +1,3 @@
-# renovate-config
-
 # Custom Renovate configurations
 In order to reuse them you only need to set your ``renovate.json`` file as follows:
 ``` json
